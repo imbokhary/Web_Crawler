@@ -1,0 +1,8 @@
+pages:
+  en: https://en.wikipedia.org/wiki/Bangladesh
+
+crawl:
+  user_agent: "WikiRAGCrawler/0.1 (educational project)"
+  respect_robots: true
+  timeout_seconds: 30
+  delay_seconds: 1.5
